@@ -4,7 +4,7 @@
 
 SFINCS was set up using python language in a Jupiter Notebook.
 This notebook together with the associated data catalogue is provided above. 
-Additionally, the raw python script can be downloaded as well.
+Additionally, the raw python script can be downloaded.
 
 To retrieve flood extents and average maximum flood depths,
 I calculated statistics using the two scripts "SFINCS_raster_statistics" and "SFINCS_statistics_postprocessing".
